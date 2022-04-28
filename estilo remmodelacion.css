@@ -1,0 +1,144 @@
+ body{
+    height: 1024px;
+    width: 1440px;
+    left: -720px;
+    top: 622px;
+    background: rgba(243, 245, 252, 1);
+    border-radius: 0px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+ }
+ .marco{
+    margin: 2px;
+    margin-top: 0%;
+    margin-left: 0%;
+    }
+
+ .titulo{
+     margin: 6%;
+    margin-top: 1%;
+    margin-left: 2%;
+    color: rgba(10, 56, 113, 1) ;
+    height: 15px;
+    width: 10px;
+    left: 10px;
+    top: 0px;
+    border-radius: 0px;
+    background:  transparent;
+    cursor: pointer; cursor: hand;
+    border-radius: 12px;
+    text-align: center;
+    text-anchor: 20px;
+    text-decoration: none;
+    text-decoration-color: black;  
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .redondeado{
+    margin: 2%;
+    margin-left: 2%;
+    margin-top: 0%;
+    padding: 0%;
+    height:800px;
+    width: 1000px;
+    left: 20px;
+    font-size: 32px;
+    font-weight:200px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: rgba(243, 245, 252, 1);
+    border: transparent;
+    border-radius: 20px;
+    position: absolute;
+    float: left;
+ }
+ 
+ .botonuno{
+  
+    text-align: center;
+    Color:rgb(255, 255, 255);
+    height: 20px;
+    width: 128px;
+    left: 200px;
+    top: 800px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgba(10, 56, 113, 1);
+    cursor: pointer; cursor: hand;
+    position: relative;
+    float: left;
+    border-color: black;
+    border: 2px;
+    box-shadow: 0px 24px 32px -8px rgb(0, 0, 0);
+    
+   
+ }
+ .botondos{
+    text-align: center;
+    Color:"Dark blue";
+    rotate :"Normal";
+    height: 20px;
+    width: 128px;
+    left: 500px;
+    top: 800px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgb(255, 255, 255);
+    cursor: pointer; cursor: hand;
+    bottom: auto;
+    position: relative;
+    float:left;
+    border-color: black;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.979);
+
+ }
+
+ #resultado{
+     padding-top: 100%;
+     align-items: center;
+     text-align: center;
+     top: 0%;
+ }
+ .salidaa{
+    margin: 5%;
+    border: transparent;
+    height: 944px;
+    width: 400px;
+    left: 1150px;
+    top: 0%;
+    border-radius: 32px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    position: absolute;
+    float: right;
+    
+     }
+     img{
+        margin: 0%;
+        position: relative;
+        float: none;
+        height: 30%;
+        width: 30%;
+        align-items: center;
+        left: 0%;
+         top: 0%;
+
+     }
+
+ .primary{
+
+    Color: rgb(230, 230, 240);
+    translate:Normal;
+    height: 67px;
+    width: 328px;
+    left: 170px;
+    top: 800px;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgb(2, 46, 99);
+    cursor: pointer; cursor: hand;
+    position: relative;
+    float: right;
+    box-shadow: 0px 24px 32px -8px rgb(0, 0, 0);
+ }
